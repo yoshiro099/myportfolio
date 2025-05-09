@@ -24,6 +24,28 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+/* ------------ Navbar -----------  */
+#nav-bar {
+    background-color: #0c2750;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-list li {
+    margin: 20px;
+}
+
+.nav-list a {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+/* ------------ End of Navbar -----------  */
+
 /* ------------ header -----------  */
 
 .me {
